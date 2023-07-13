@@ -63,7 +63,7 @@
     margin-bottom: .5rem;
   }
   
-  /* header  */
+  
   header {
     height: 10vh;
     display: flex;
@@ -106,7 +106,7 @@
     padding-left: 1.5rem;
   }
   
-  /* hero  */
+  
   .hero {
     height: calc(100vh - 10vh);
     display: flex;
@@ -138,7 +138,7 @@
     margin-top: 4rem;
   }
   
-  /* services  */
+  
   .description {
     height: 50vh;
     width: 90%;
@@ -165,7 +165,7 @@
     margin-bottom: 3rem;
   }
   
-  /* work  */
+  
   .work {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -177,7 +177,7 @@
     height: 100%;
   }
   
-  /* contact  */
+  
   .contact-form form {
     width: 80%;
   }
@@ -231,7 +231,7 @@
     }
   
     .main-nav {
-      width: 100%;
+      width: 50%;
     }
   
     .contact-form form {
@@ -277,7 +277,7 @@
       }
 
       svg {
-        color: #fff;
+        color: #0b0b0b;
         fill: currentColor;
         width: 24px;
         height: 24px;
